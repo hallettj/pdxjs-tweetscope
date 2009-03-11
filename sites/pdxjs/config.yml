@@ -1,0 +1,6 @@
+# TweetScope Configuration
+
+title: pdxjs
+tagline: Tweets about the Portland JavaScript Admirers
+query: "pdxjs"
+count: 20
