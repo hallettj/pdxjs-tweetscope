@@ -6,7 +6,7 @@ require 'rake'
 namespace :site do
 
   desc "creates a new site"
-  task :create, [:site_name] do |t, args|
+  task :create do |t, args|
     print "Site Name: "
     if site_name = args.site_name
       puts site_name
