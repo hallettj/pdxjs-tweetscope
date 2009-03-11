@@ -1,3 +1,5 @@
+require 'yaml'
+
 class ConfigReader
   def self.read
     config = Hash.new
